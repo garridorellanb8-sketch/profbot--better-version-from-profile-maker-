@@ -1,4 +1,4 @@
-# profbot better version from profile maker
+# profbot
 ## I made a better version of the Profile maker.
 What is diferent?
 ### 1-more colors-> I used rich to agregate some colors on the text.
